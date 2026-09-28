@@ -1,0 +1,13 @@
+{
+  "name": "superx-telemetry-app",
+  "version": "1.0.0",
+  "description": "SuperX Gym iOS UI - Athletic Telemetry & Training OS",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "start": "npx serve ."
+  },
+  "keywords": ["superx", "telemetry", "fitness", "stitch", "ios-ui"],
+  "author": "",
+  "license": "MIT"
+}
